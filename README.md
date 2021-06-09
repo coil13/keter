@@ -1,2 +1,2 @@
 Extract files into a directory.
-Run BinSjar.
+Run BinS.jar.
